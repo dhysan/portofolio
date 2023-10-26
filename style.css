@@ -1,0 +1,13 @@
+.btn-pink {
+  background-color: pink;
+}
+
+.bg-pink {
+  background-color: pink;
+}
+
+#home .container-fluid {
+  height: 600px;
+  background-image: url("hero.webp");
+  background-position: 0 -150px;
+}
